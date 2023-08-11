@@ -10,8 +10,8 @@ Time spent: **0.5** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWhpbm51bHUxdHlnbXU3Y2RodG82a3RyeW9nZ2dxenM1ZGM1ZGQwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8SzOp6HafNJ3k6c0Ik/giphy.gif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -44,7 +44,7 @@ I'd like to build an app that recommends food to eat because my friends and I ar
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+Figuring out how to control + drag the button to the ViewController was a challenge because I didn't realize I had to change the option from outlet to action.
 ## License
 
     Copyright [yyyy] [name of copyright owner]
